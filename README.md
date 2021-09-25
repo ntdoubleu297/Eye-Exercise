@@ -5,7 +5,7 @@
 
 In this project => repository, I use skills learned in JavaScript in order to move a Pacman figure from one side of the page to another, without running off the webpage. Herein the checkwalls() function is administered to keep the Pacman on the screen. As well as 4 jpg uploads accounting for the switch in direction back and forth etc.
 
-How to Run: Download the index.html file herein to your CPU harddrive then drag/drop from your finder to a blank page web browser.
+How to Run: Download the oneEye.html as well the bigEyes.html file(s) herein to your CPU harddrive then drag/drop them from your finder to a blank page(s) web browser.
 
 Roadmap of future improvements: I am going to work on adding JavaScript code allowing the eye/eyes file examples herein to move around independently for a specific amount of time by using/adding code with the setTimeout(){,} JS syntax in progression. TY
 
