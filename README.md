@@ -7,7 +7,7 @@ In this project => repository, I use skills learned in JavaScript in order to mo
 
 How to Run: Download the index.html file herein to your CPU harddrive then drag/drop from your finder to a blank page web browser.
 
-Roadmap of future improvements: I am going to work on gaining the Pacmans ability to move up and down (as well as side to side) in progression. TY
+Roadmap of future improvements: I am going to work on adding JavaScript code allowing the eye/eyes file examples herein to move around independently for a specific amount of time by using/adding code with the setTimeout(){,} JS syntax in progression. TY
 
 License information: "Professional Certificate in Coding: Full Stack Development with MERN.
 
