@@ -3,7 +3,7 @@
 <img src= "oneeye.png" width='300'/>
 
 
-In this project => repository, I use skills learned in JavaScript in order to allow the eye/eyes html files to follow my mouse whereever it goes on the specific web page upon access.  I was able to code this in JS by calculating the modulus for page border recognition from one side of the page to another while the mouse arrown is running inside of the webpage in question.  I also used a JS for loop - (for (let i = 0; i < 2; i++){} - in order to get an 'index handle' on both eye balls simultanously when transitioning from just one eye ball to two eye balls plural.  
+In this project => repository, I use skills learned in JavaScript in order to allow the eye/eyes html files to follow my mouse whereever it goes on the specific web page upon access.  I was able to code this in JS by calculating the modulus for page border recognition from one side of the page to another while the mouse arrow is running inside of the webpage in question.  I also used a JS for loop - (for (let i = 0; i < 2; i++){} - in order to get an 'index handle' on both eye balls simultanously when transitioning from just one eye ball to two eye balls plural.    
 
 How to Run: Download the oneEye.html as well the bigEyes.html file(s) herein to your CPU harddrive then drag/drop them from your finder to a blank page(s) web browser.
 
